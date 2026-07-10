@@ -18,9 +18,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8B5CF6&labelColor=1E1B4B)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=A78BFA&labelColor=1E1B4B)
+![Profile Views](https://komarev.com/ghpvc/?username=div007x&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/div007x?style=for-the-badge&color=8B5CF6&labelColor=1E1B4B)
+![Stars](https://img.shields.io/github/stars/div007x?style=for-the-badge&color=A78BFA&labelColor=1E1B4B)
 
 </div>
 
