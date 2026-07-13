@@ -6,15 +6,9 @@
 
 <br/>
 
-![Student](https://img.shields.io/badge/Status-Computer%20Science%20Student-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+Computer Science Student · Coimbatore, India
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://habib277672.github.io/Personal-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vanity)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divakar.codes@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/div007x)
+**[Portfolio](https://personal-portfolio-six-omega-62.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/divakar-rk) · [Email](mailto:divakar.codes@gmail.com) · [GitHub](https://github.com/div007x)**
 
 <br/>
 
@@ -82,54 +76,45 @@ Open To: [ Software Engineering Internships, AI/ML Engineering Roles, Full-Stack
 
 ## 🚀 Featured Projects
 
+<details open>
+<summary><b>🌐 Personal Portfolio — Interactive Developer Showcase</b></summary>
+<br>
+
+A fully custom, animation-driven personal portfolio site with a minimal, terminal-inspired dark-mode aesthetic.
+
+| Category | Details |
+|---|---|
+| **Stack** | HTML5, CSS3, JavaScript |
+| **Scale** | Single-page site, deployed on Vercel |
+| **Impact** | Primary recruiter-facing engineering showcase |
+| **Live** | [personal-portfolio-six-omega-62.vercel.app](https://personal-portfolio-six-omega-62.vercel.app/) |
+| **Repository** | [div007x/personal-portfolio](https://github.com/div007x/personal-portfolio) |
+
+</details>
+
 <details>
 <summary><b>📱 SwipeStudy — AI-Powered Micro-Learning Platform</b></summary>
 <br>
 
-An AI-powered mobile app that converts syllabus notes and PDFs into swipeable flashcards and narrated, Reels-style micro-lesson videos — designed to redirect short-form-content habits toward focused studying, with spaced repetition and a distraction-blocking Focus Mode.
+An AI-powered mobile app concept that converts syllabus notes and PDFs into swipeable flashcards and narrated, Reels-style micro-lesson videos — designed to redirect short-form-content habits toward focused studying, with spaced repetition and a distraction-blocking Focus Mode.
 
 | Category | Details |
 |---|---|
 | **Stack** | React Native, Firebase/Supabase, Claude/OpenAI API, ElevenLabs TTS, Whisper, Remotion |
 | **Scale** | Concept-to-MVP stage; architected for national-level deployment |
-| **Performance** | Async video-generation pipeline designed for sub-30s micro-lesson rendering |
-| **Security** | Firebase Auth, scoped API key handling, no raw PII stored client-side |
-| **Impact** | Built for Samsung Solve for Tomorrow 2026 (AI Living for India theme) — targets student focus and retention at scale |
-| **Repository** | `TODO: add repo link` |
-
-Designed end-to-end: concept note, MVP scope, technical architecture, and build roadmap were fully specified prior to development, including multilingual voice-tutor and interactive talk-back card extensions for younger learners.
+| **Impact** | Built for Samsung Solve for Tomorrow 2026 (AI Living for India theme) |
+| **Repository** | 🚧 *in progress — not yet built* |
 
 </details>
 
 <details>
-<summary><b>🌐 Personal Portfolio — Interactive Developer Showcase</b></summary>
-<br>
-
-A fully custom, animation-driven personal portfolio site built from scratch with vanilla JavaScript — no frontend framework — featuring scroll-triggered reveals, interactive certificate showcases, and a swipeable project gallery.
-
-| Category | Details |
-|---|---|
-| **Stack** | HTML5, CSS3, Vanilla JavaScript, Anime.js, Swiper.js, ScrollReveal.js |
-| **Scale** | Single-page static site, deployed globally via GitHub Pages |
-| **Performance** | Zero build step, sub-second load, fully static asset delivery |
-| **Security** | No backend/data surface — static hosting only |
-| **Impact** | Serves as primary recruiter-facing engineering showcase |
-| **Repository** | [Habib277672/Personal-Portfolio](https://github.com/Habib277672/Personal-Portfolio) |
-
-</details>
-
-<details>
-<summary><b>🔧 TODO: Add Next Project</b></summary>
+<summary><b>🔧 Student Management System (C++)</b></summary>
 <br>
 
 | Category | Details |
 |---|---|
-| **Stack** | — |
-| **Scale** | — |
-| **Performance** | — |
-| **Security** | — |
-| **Impact** | — |
-| **Repository** | — |
+| **Stack** | C++ |
+| **Repository** | [div007x/Student-Management-System-using-Cpp](https://github.com/div007x/Student-Management-System-using-Cpp) |
 
 </details>
 
@@ -137,16 +122,7 @@ A fully custom, animation-driven personal portfolio site built from scratch with
 
 ## 💼 Experience
 
-**Software Engineering Intern** — `TODO: Company Name`
-*Month Year – Month Year*
-
-Brief professional description of the role and its context within the organization.
-
-- Contributed to `TODO: specific feature/system` in a production codebase
-- Collaborated cross-functionally with `TODO: team/stakeholders`
-- Improved `TODO: metric` through `TODO: technical change`
-
-`React` `Node.js` `AWS` `Git`
+🚧 *No professional experience listed yet — actively seeking Software Engineering internships.*
 
 ---
 
@@ -157,8 +133,8 @@ Brief professional description of the role and its context within the organizati
 | Recognition | Details |
 |---|---|
 | Samsung Solve for Tomorrow 2026 — Application Submitted | AI Living for India theme; SwipeStudy concept, full technical roadmap and application answers developed |
-| `TODO: Hackathon / Competition` | `TODO: Result and details` |
-| `TODO: Academic Honor` | `TODO: Details` |
+
+*More achievements coming soon.*
 
 </div>
 
@@ -166,36 +142,13 @@ Brief professional description of the role and its context within the organizati
 
 ## 📜 Certifications
 
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle-Certified%20Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-> `TODO: Replace placeholder certification badges above with your actual completed certifications.`
+🚧 *In progress — certifications will be listed here once completed.*
 
 ---
 
 ## 💻 Coding Profiles
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Codebydivakar-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Codebydivakar/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-divakar__codes-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/divakar_codes)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/user/div007x)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-8B5CF6?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://codechef.com/users/div007x)
-
-</div>
+**[LeetCode](https://leetcode.com/u/Codebydivakar/) · [HackerRank](https://www.hackerrank.com/profile/divakar_codes) · [GeeksforGeeks](https://geeksforgeeks.org/user/div007x) · [CodeChef](https://codechef.com/users/div007x)**
 
 ---
 
@@ -266,10 +219,7 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divakar.codes@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vanity)
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/div007x)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://habib277672.github.io/Personal-Portfolio/)
+**[Email](mailto:divakar.codes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/divakar-rk) · [GitHub](https://github.com/div007x) · [Portfolio](https://personal-portfolio-six-omega-62.vercel.app/)**
 
 </div>
 
